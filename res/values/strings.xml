@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiniMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="remember_key">记住密码</string>
+    <string name="login">登录</string>
+    <string name="_logkey">请输入密码</string>
+    <string name="logname">请输入账号</string>
+    <string name="remembernum">记住密码</string>
+    <string name="hint">距离目标地还有：</string>
+    <string name="mapdsn">西二楼平面示意图:</string>
+    <string name="shiyi">shiyitu</string>
+    <string name="big">放大</string>
+    <string name="small">缩小</string>
+    <string name="_approaching">正在接近目的地。。。</string>
+    <string name="lattt">你的纬度是：</string>
+    <string name="loggg">你的经度是：</string>
+    <string name="_wherego">您要去哪儿啊</string>
+    <string name="enterkey">请输入密钥</string>
+    <string name="reappear">进入</string>
+    <string name="chaxun01">请输入教室名称</string>
+
+</resources>
